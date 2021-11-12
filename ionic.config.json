@@ -1,0 +1,7 @@
+{
+  "name": "PruebaRainox",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
